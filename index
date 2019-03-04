@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>Tesla Recent Models Comparison</title>
+  <h1> Tesla Recent Models Comparison</h1>
+  <p> Below is a comparison of the Tesla Model S, Model 3 and Model X as of March 2019</p>
+  <h3> Data Header </h3>
+</head>
+<body>
+ <table cellspacing="20" border=1>
+  <tr>
+    <td></td>
+    <th> Model S </th>
+    <th> Model 3 </th>
+    <th> Model X </th>
+  </tr>
+  <tr>
+    <th scope ="row"> Price </th>
+    <td> $69,750 </td>
+    <td> $35,000 </td>
+    <td> $88,000 </td>
+  </tr>
+  <tr>
+     <th scope ="row"> Mile Range </th>
+     <td> 295 mi </td>
+     <td> 325 mi </td>
+     <td> 295 mi </td>
+  </tr>
+  <tr>
+     <th scope"row"> From 0-60mph </th>
+     <td> 4.7s </td>
+     <td> 3.2s </td>
+     <td> 2.8s </td>
+  </tr>
+ </table>
+ <p>Source: <a href="https://www.tesla.com/">https://www.tesla.com/</a> </p>
+ <form action="mailto:parisdolfman@gmail.com" method="POST">
+   <input type="text" value="Tell me what you think here!">
+   <input type="submit">
+
+
+
+
+
+
+ 
+</body >
+</html>
